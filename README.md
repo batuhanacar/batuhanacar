@@ -40,10 +40,4 @@
 
 ---
 
-## 📊 GitHub Overview
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=batuhanacar&theme=github_dark"/>
-
-</div>
