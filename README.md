@@ -15,7 +15,7 @@
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,ts,js"/>
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,ts,js"/>
 
 </td>
 </tr>
@@ -30,8 +30,20 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### Minecraft Development
+
+<img src="https://img.shields.io/badge/Spigot-ED8106?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/PaperMC-4285F4?style=flat-square&logoColor=white"/>
 
 </td>
 </tr>
@@ -39,5 +51,3 @@
 </table>
 
 ---
-
-
